@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Saad_Tamer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saad-tamer-67585a224/)
 [![Email](https://img.shields.io/badge/Email-saadt.tamer8181@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saadt.tamer8181@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201096563130)
-[![Portfolio](https://img.shields.io/badge/Live_Portfolio-Visit_Website-8B5CF6?style=for-the-badge&logo=react&logoColor=white)](https://github.com/saadtamer/saad-portfolio)
+[![Live Portfolio](https://img.shields.io/badge/Live_Portfolio-saadtamer--portfolio.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://saadtamer-portfolio.vercel.app/)
 
 <br/>
 
@@ -22,6 +22,7 @@ I am an **AI & Data Engineer** dedicated to engineering practical, enterprise-gr
 
 * 🔭 **Currently Building:** [ZaWolf](#-featured-projects) — An on-premise medical document processing pipeline with handwriting vision OCR (Qwen2.5-VL) & transactional SQL Server persistence.
 * 🧠 **Core Specialties:** RAG Architectures, Multimodal LLMs, Vision-Language Models, Deep Learning (PyTorch/Keras), Agentic Workflows (n8n), and Relational Database Engineering.
+* 🌐 **Live Portfolio:** [https://saadtamer-portfolio.vercel.app/](https://saadtamer-portfolio.vercel.app/)
 * 📍 **Location:** Egypt (Open to remote roles & global relocation).
 * 🎓 **Background:** Computer & Systems Engineering (GPA: 3.55).
 
